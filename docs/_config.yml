@@ -1,0 +1,11 @@
+theme: jekyll-theme-hacker
+title: "Exemplo simples de uso do Johnny-Five " 
+description: "Usando o Arduino com o Johnny-Five no NodeJS"
+keywords: [Automação, Sistema, Integração, Solução, Inteligente, Internet, Arduino, Johnny-Five, NodeJS]
+show_downloads: true
+google_analytics: "UA-21710445-1"
+locale: "pt_BR"
+lang: "pt_BR"
+charset: "utf-8"
+encoding: "utf-8"
+repository: ArduinoMinas/johnny-five-simple-example
